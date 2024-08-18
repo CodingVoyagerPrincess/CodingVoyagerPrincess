@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodingVoyagerPrincess
-- 👀 I’m interested in starting my 1st project.
-- 🌱 I’m currently learning at Lamar University CS. 
-- 💞️ I’m looking to collaborate on anything related to bioinformatics.
-- 📫 How to reach me: Walk around and think of me <3
+- 👀 I’m interested in expanding my knowledge on NLP woth Transformers and others.
+- 🌱 I’m currently learning CS at Lamar University. 
+- 💞️ I’m looking to collaborate on works related to AI or Robotics..
+- 📫 How to reach me: Walk around and think of me <3.
 
 <!---
 CodingVoyagerPrincess/CodingVoyagerPrincess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
